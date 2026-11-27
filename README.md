@@ -19,6 +19,16 @@
 | [`s09-recon-and-upload/`](./s09-recon-and-upload/) | **Day 6:** Recon Workflow & DVWA File Upload | Custom 10-step recon methodology, DVWA File Upload exploitation across 4 security levels (Low, Medium, High, Impossible), management remediation brief | Completed |
 | [`s10-file-inclusion-and-sqli/`](./s10-file-inclusion-and-sqli/) | **Task 1:** File Inclusion & Manual SQL Injection | Empty parameter path disclosure, LFI-to-RCE chain, modern Kali named pipes vs `nc -e`, manual UNION SQL extraction, allowlist vs blocklist &nbsp;•&nbsp; **Deliverables:** [`PDF`](./s10-file-inclusion-and-sqli/DFCS_Task1_File_Inclusion_SQLi_Musab_Ahmad.pdf) &bull; [`DOCX`](./s10-file-inclusion-and-sqli/DFCS_Task1_File_Inclusion_SQLi_Musab_Ahmad.docx) | Completed |
 | [`s11-bruteforce-and-cracking/`](./s11-bruteforce-and-cracking/) | **Task 2:** Brute Force, Steganography & CVE Reproduction | Burp Intruder timing audit (Low vs Medium artificial delay), Steghide/StegSeek recovery, PKZIP hash analysis & John the Ripper, isolated CVE-2011-2523 PoC &nbsp;•&nbsp; **Deliverables:** [`PDF`](./s11-bruteforce-and-cracking/DFCS_Task2_Bruteforce_Cracking_Musab_Ahmad.pdf) &bull; [`DOCX`](./s11-bruteforce-and-cracking/DFCS_Task2_Bruteforce_Cracking_Musab_Ahmad.docx) | Completed |
+| [`s12-session-interception/`](./s12-session-interception/) | **Assignment 8 - Task 1:** Session Interception & ARP Poisoning | 324-frame capture, display filter audit & range-filter trap (`!(ip.addr == X)`), plaintext POST credential extraction, cookie replay bypass, ARP poisoning & DoS proof &nbsp;•&nbsp; **Deliverables:** [`PDF`](./s12-session-interception/DFCS_Task1_Session_Interception_Musab_Ahmad.pdf) &bull; [`DOCX`](./s12-session-interception/DFCS_Task1_Session_Interception_Musab_Ahmad.docx) | Completed |
+| [`s13-anonymity-darkweb/`](./s13-anonymity-darkweb/) | **Assignment 8 - Task 2:** Anonymity, Tor Circuits & Dark Web | Multi-service public IP audit, Tor SOCKS5 routing, Proxychains Nmap -sT vs -sS raw socket leak trap, Tor v3 Hidden Service (`.onion`), Debian-Tor permissions trap &nbsp;•&nbsp; **Deliverables:** [`PDF`](./s13-anonymity-darkweb/DFCS_Task2_Anonymity_Darkweb_Musab_Ahmad.pdf) &bull; [`DOCX`](./s13-anonymity-darkweb/DFCS_Task2_Anonymity_Darkweb_Musab_Ahmad.docx) | Completed |
+
+---
+
+### Assignment 8 Unified Submission Deliverables (Both Tasks Combined)
+For single-document review and LMS upload:
+- 📄 **Master Unified PDF (12 Pages with 23 Figures):** [`DFCS_Assignment8_Complete_Report_Musab_Ahmad.pdf`](./DFCS_Assignment8_Complete_Report_Musab_Ahmad.pdf)
+- 📄 **Merged Submission PDF:** [`DFCS_Assignment8_Merged_Submission_Musab_Ahmad.pdf`](./DFCS_Assignment8_Merged_Submission_Musab_Ahmad.pdf)
+- 📝 **Master Unified Word Document:** [`DFCS_Assignment8_Complete_Report_Musab_Ahmad.docx`](./DFCS_Assignment8_Complete_Report_Musab_Ahmad.docx)
 
 ---
 
